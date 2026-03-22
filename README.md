@@ -29,11 +29,13 @@ OS:             "Windows 11 · WSL / Linux"
 Shell:          "PowerShell · bash"
 Editor:         "VS Code / Cursor"
 
+Website:        "https://gnol-portfolio.vercel.app/"
 Location:       "— (cập nhật)"
 Focus:
-  - Mobile — [Spending Tracker](https://github.com/longnhx1/spending-tracker) (React Native · Expo, quản lý chi tiêu, AI categorization)
-  - Clean architecture & maintainable code
-  - Web / backend & developer tooling
+  - In dev — [KaiwaNN10](https://github.com/longnhx1/KaiwaNN10) (luyện kaiwa · AI chấm phát âm · React · Vite · Tailwind · FastAPI)
+  - In dev — [4625v1](https://github.com/longnhx1/4625v1) (game · Godot Engine .NET)
+  - Mobile — [Spending Tracker](https://github.com/longnhx1/spending-tracker) (React Native · Expo · quản lý chi tiêu · AI categorization)
+  - Clean architecture, web / backend & tooling
 
 Learning:       "Docker · Kubernetes · Cloud · …"
 Languages:      "JavaScript · TypeScript · Python · …"
@@ -46,13 +48,13 @@ Languages:      "JavaScript · TypeScript · Python · …"
 
 ### ◆ Armament — Languages & tools
 
-![][TypeScript] ![][JavaScript] ![][Python] ![][Node] ![][React] ![][Expo] ![][ReactNative] ![][PostgreSQL] ![][Git] ![][Docker] ![][Markdown] ![][Bash] ![][VSCode]
+![][TypeScript] ![][JavaScript] ![][Python] ![][Node] ![][React] ![][Vite] ![][Tailwind] ![][FastAPI] ![][Expo] ![][ReactNative] ![][Godot] ![][PostgreSQL] ![][Git] ![][Docker] ![][Markdown] ![][Bash] ![][VSCode]
 
 &nbsp;
 
 ### ◆ Relay — Presence & platforms
 
-![][GitHub] ![][GitLab] ![][StackOverflow]
+![][GitHub] ![][GitLab] ![][StackOverflow] [![](https://img.shields.io/badge/Portfolio-gnol--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gnol-portfolio.vercel.app/)
 
 &nbsp;
 
@@ -64,19 +66,22 @@ Languages:      "JavaScript · TypeScript · Python · …"
 
 ### ◆ WIP — Development queue
 
-![][Expo] ![][ReactNative] ![][JavaScript]
+![][React] ![][Vite] ![][Tailwind] ![][FastAPI] ![][Python] ![][Godot]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=spending-tracker&theme=dark)](https://github.com/longnhx1/spending-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=KaiwaNN10&theme=dark)](https://github.com/longnhx1/KaiwaNN10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=4625v1&theme=dark)](https://github.com/longnhx1/4625v1)
 
-<sub><strong><a href="https://github.com/longnhx1/spending-tracker">spending-tracker</a></strong> — ứng dụng quản lý chi tiêu cá nhân (AI categorization) · React Native + Expo · hiện hỗ trợ Android.</sub>
+<sub><strong><a href="https://github.com/longnhx1/KaiwaNN10">KaiwaNN10</a></strong> — web luyện hội thoại tiếng Nhật (JLPT), AI chấm phát âm · React · Vite · Tailwind · FastAPI.</sub>  
+<sub><strong><a href="https://github.com/longnhx1/4625v1">4625v1</a></strong> — game · Godot Engine .NET.</sub>
 
 &nbsp;
 
-### ◆ Active missions — Pinned work
+### ◆ Active missions — Featured & profile
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=spending-tracker&theme=dark)](https://github.com/longnhx1/spending-tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=longnhx1&theme=dark)](https://github.com/longnhx1/longnhx1)
 
-<!-- Thêm repo khác: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=REPO&theme=dark)](https://github.com/longnhx1/REPO) -->
+<sub><a href="https://github.com/longnhx1/spending-tracker">spending-tracker</a> — React Native · Expo · quản lý chi tiêu (Android).</sub>
 
 &nbsp;
 
@@ -146,6 +151,9 @@ Languages:      "JavaScript · TypeScript · Python · …"
 
 [Expo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white
 [ReactNative]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[FastAPI]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[Godot]: https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white
 
 [Tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
