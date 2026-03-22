@@ -95,17 +95,6 @@ Languages:      "JavaScript · TypeScript · Python · …"
 
 &nbsp;
 
-### ◆ Field scan
-
-<sub>*“Field scan” = khối trang trí phong cách HUD YoRHa (viền hai bên), không phải tool hay metric — chỉ để nhét quote & nhịp visual.*</sub>
-
-| ![](assets/left.svg) | ![](assets/right.svg) |
-| :---: | :---: |
-
-<sub>▓▒░ *Quote mở đầu nằm phía trên (Visitor log).* ░▒▓</sub>
-
-&nbsp;
-
 ### ◆ Telemetry — Statistics
 
 **Contribution snake** (SVG từ branch `output`; chạy workflow nếu chưa có ảnh)
