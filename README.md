@@ -1,37 +1,11 @@
 <div align="center">
 
-<!-- Banner: thay ./assets/banner.png bằng ảnh/GIF của bạn (giữ tên hoặc sửa src). GIF động hoạt động tốt trên GitHub. -->
-<img src="./assets/banner.png" width="800" alt="NieR-inspired profile banner"/>
+<!-- Banner: 2B & 9S — ruins (animation nếu file gốc là GIF) -->
+<img src="assets/hero-ruins.png" alt="NieR Automata — 2B and 9S at the ruins" width="100%"/>
 
 <br/>
 
-<!-- NieR: Automata–inspired header — edit display name / tagline below -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" role="img" aria-label="Profile header">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1a1a1a"/>
-      <stop offset="50%" style="stop-color:#0d0d0d"/>
-      <stop offset="100%" style="stop-color:#1a1a1a"/>
-    </linearGradient>
-    <pattern id="scan" width="800" height="8" patternUnits="userSpaceOnUse">
-      <rect width="800" height="4" fill="#000" opacity="0.12"/>
-    </pattern>
-  </defs>
-  <rect width="800" height="200" fill="url(#g)"/>
-  <rect width="800" height="200" fill="url(#scan)" opacity="0.9"/>
-  <rect x="24" y="24" width="752" height="152" fill="none" stroke="#c41e3a" stroke-width="1" opacity="0.85"/>
-  <rect x="285" y="148" width="230" height="2" fill="#c41e3a" opacity="0.5"/>
-  <rect x="287" y="149" width="72" height="2" fill="#e8e0d5" opacity="0.15"/>
-  <line x1="40" y1="40" x2="120" y2="40" stroke="#e8e0d5" stroke-width="2"/>
-  <line x1="680" y1="160" x2="760" y2="160" stroke="#e8e0d5" stroke-width="2"/>
-  <text x="400" y="95" text-anchor="middle" fill="#e8e0d5" font-family="ui-monospace, Consolas, monospace" font-size="13" letter-spacing="0.35em">YORHA // ANDROID</text>
-  <text x="400" y="140" text-anchor="middle" fill="#c41e3a" font-family="ui-monospace, Consolas, monospace" font-size="28" font-weight="700" letter-spacing="0.5em">LONGNHX1</text>
-  <text x="400" y="168" text-anchor="middle" fill="#8a8a8a" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="0.2em">MISSION: BUILD · DEBUG · REPEAT</text>
-</svg>
-
-<br/>
-
-<sub><code style="color:#8a8a8a">「 This cannot continue… unless we ship. 」</code></sub>
+<sub><code style="color:#a8a29e">「 This cannot continue… unless we ship. 」</code></sub>
 
 </div>
 
@@ -39,9 +13,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
 ### ◆ STATUS REPORT
+
+<table width="100%"><tr>
+<td valign="top">
 
 ```
 UNIT: longnhx1
@@ -52,7 +29,11 @@ STATE: [ OPERATIONAL ]
 Mình thích code sạch, UI có hồn, và những project “có chút điên” giống NieR — không chỉ chạy được mà còn kể được chuyện.
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="128"><img src="assets/sketch-2b.png" alt="2B sketch" width="120"/></td>
+</tr></table>
+
+</td>
+<td width="58%" valign="top">
 
 ### ◆ LOADOUT
 
@@ -66,7 +47,61 @@ Mình thích code sạch, UI có hồn, và những project “có chút điên�
   <img src="https://img.shields.io/badge/DB-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a1a" alt="PostgreSQL"/>
 </p>
 
-*Chỉnh lại badge cho đúng stack của bạn.*
+*Chỉnh badge cho đúng stack của bạn.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ◆ FIELD RECORD
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top" align="center"><img src="assets/katana-night.png" alt="Virtuous Contract — night" width="100%"/></td>
+<td width="33%" valign="top" align="center"><img src="assets/lunar-tears.png" alt="Lunar Tears" width="100%"/></td>
+<td width="33%" valign="top" align="center"><img src="assets/yorha-emblem.png" alt="YoRHa emblem" width="100%"/></td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Copied City**
+
+<img src="assets/desert-2b.png" alt="2B above the city" width="95%"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Lunar Tears / Orchestra**
+
+<img src="assets/orchestra-flowers.png" alt="NieR Orchestra — flowers under stars" width="95%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Cast**
+
+<img src="assets/cast-poster.png" alt="2B, A2, 9S" width="92%"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Key art**
+
+<img src="assets/key-art-trio.png" alt="2B, 9S, A2 key art" width="92%"/>
 
 </td>
 </tr>
@@ -78,12 +113,12 @@ Mình thích code sạch, UI có hồn, và những project “có chút điên�
 
 ### ◆ COMBAT ANALYTICS
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=longnhx1&show_icons=true&hide_border=true&title_color=c41e3a&icon_color=c41e3a&text_color=e8e0d5&bg_color=0a0a0a&border_radius=0&ring_color=c41e3a" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnhx1&layout=compact&hide_border=true&title_color=c41e3a&text_color=e8e0d5&bg_color=0a0a0a&border_radius=0" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=longnhx1&show_icons=true&hide_border=true&title_color=c41e3a&icon_color=c41e3a&text_color=d4cfc4&bg_color=0a0a0a&border_radius=0&ring_color=c41e3a" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnhx1&layout=compact&hide_border=true&title_color=c41e3a&text_color=d4cfc4&bg_color=0a0a0a&border_radius=0" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=longnhx1&theme=dark&hide_border=true&background=0a0a0a&ring=c41e3a&fire=c41e3a&currStreakLabel=e8e0d5&sideLabels=e8e0d5&currStreakNum=e8e0d5&sideNums=e8e0d5&dates=8a8a8a" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=longnhx1&theme=dark&hide_border=true&background=0a0a0a&ring=c41e3a&fire=c41e3a&currStreakLabel=d4cfc4&sideLabels=d4cfc4&currStreakNum=d4cfc4&sideNums=d4cfc4&dates=8a8a8a" alt="Streak"/>
 
 </div>
 
@@ -110,9 +145,9 @@ Mình thích code sạch, UI có hồn, và những project “có chút điên�
 <div align="center">
 
 ```
-─────── Glory to Mankind ───────
+─────── For the Glory of Mankind ───────
 ```
 
-<sub>README theme: NieR: Automata · Colors: obsidian / YoRHa red / terminal cream</sub>
+<sub>NieR: Automata–inspired profile · Ảnh trong <code>assets/</code></sub>
 
 </div>
