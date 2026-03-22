@@ -93,10 +93,14 @@ Languages:      "JavaScript · TypeScript · Python · …"
 
 ### ◆ Field scan
 
+<sub>*“Field scan” = khối trang trí phong cách HUD YoRHa (viền hai bên), không phải tool hay metric — chỉ để nhét quote & nhịp visual.*</sub>
+
 | ![](assets/left.svg) | ![](assets/right.svg) |
 | :---: | :---: |
 
-<sub>▓▒░ *Ruined world — keep moving.* ░▒▓</sub>
+> *Everything that lives is designed to end. We are perpetually trapped in a never ending spiral of life and death. Is this a curse?*
+
+<p align="center"><sub><strong>The <code>[E]</code>nd of YorHa.</strong></sub></p>
 
 &nbsp;
 
