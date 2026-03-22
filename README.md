@@ -7,7 +7,11 @@
 
 ### 「 YoRHa // Visitor log 」
 
-### *Glory to mankind — welcome to this unit’s profile.*
+<p><em>Everything that lives is designed to end.<br/>
+We are perpetually trapped in a never ending spiral of life and death.<br/>
+Is this a curse?</em></p>
+
+<p><strong>The <code>[E]</code>nd of YorHa.</strong></p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=E8E0D5&center=true&vCenter=true&width=920&height=70&lines=Mission%3A+build%2C+debug%2C+repeat;Memory+status%3A+%5B+OK+%5D;This+cannot+continue%E2%80%A6+unless+we+ship." alt="Typing subtitle"/>
 
@@ -98,9 +102,7 @@ Languages:      "JavaScript · TypeScript · Python · …"
 | ![](assets/left.svg) | ![](assets/right.svg) |
 | :---: | :---: |
 
-> *Everything that lives is designed to end. We are perpetually trapped in a never ending spiral of life and death. Is this a curse?*
-
-<p align="center"><sub><strong>The <code>[E]</code>nd of YorHa.</strong></sub></p>
+<sub>▓▒░ *Quote mở đầu nằm phía trên (Visitor log).* ░▒▓</sub>
 
 &nbsp;
 
