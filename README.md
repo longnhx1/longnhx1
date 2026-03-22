@@ -21,7 +21,6 @@ Focused on writing maintainable code, thoughtful architecture, and continuous le
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-*Cập nhật badge cho khớp kỹ năng thực tế của bạn.*
 
 ---
 
@@ -34,20 +33,3 @@ Focused on writing maintainable code, thoughtful architecture, and continuous le
 
 ---
 
-### Contributions
-
-Animation “rắn” trên lưới contribution (cập nhật hằng ngày sau khi bật workflow). Lần đầu: vào **Actions → Generate contribution snake → Run workflow**.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longnhx1/longnhx1/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/longnhx1/longnhx1/output/github-contribution-grid-snake.svg"/>
-</picture>
-
----
-
-### Contact
-
-| | |
-|:---|:---|
-| **GitHub** | [@longnhx1](https://github.com/longnhx1) |
-| **Khác** | *Thêm email / LinkedIn / website nếu muốn* |
