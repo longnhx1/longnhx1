@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="220" viewBox="0 0 48 220" role="img" aria-hidden="true">
+  <rect width="48" height="220" fill="transparent"/>
+  <path d="M40 12 L40 208" stroke="#c41e3a" stroke-width="2" fill="none" opacity="0.85"/>
+  <path d="M32 24 L32 196" stroke="#e8e0d5" stroke-width="1" fill="none" opacity="0.35"/>
+  <path d="M28 32 L36 32 M28 188 L36 188" stroke="#8b949e" stroke-width="1" opacity="0.6"/>
+</svg>
