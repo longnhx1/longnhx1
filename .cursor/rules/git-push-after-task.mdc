@@ -1,0 +1,10 @@
+---
+description: Sau khi chỉnh sửa xong trong repo profile này, commit và push lên GitHub.
+alwaysApply: true
+---
+
+# Git: commit và push khi hoàn tất
+
+- Khi đã hoàn thành thay đổi có ý nghĩa (README, assets, v.v.), **stage**, **commit** với message rõ ràng, rồi **`git push origin main`** (hoặc nhánh đang làm việc).
+- Nếu `git push` lỗi xác thực, báo cho user và không giả định đã push thành công.
+- Không push commit rỗng hoặc khi user vừa yêu cầu chỉ xem/chưa muốn đưa lên remote.
