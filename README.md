@@ -31,12 +31,12 @@ Editor:         "VS Code / Cursor"
 
 Location:       "— (cập nhật)"
 Focus:
+  - Mobile — [Spending Tracker](https://github.com/longnhx1/spending-tracker) (React Native · Expo, quản lý chi tiêu, AI categorization)
   - Clean architecture & maintainable code
-  - Web / backend systems
-  - Tooling, automation, developer experience
+  - Web / backend & developer tooling
 
 Learning:       "Docker · Kubernetes · Cloud · …"
-Languages:      "TypeScript · JavaScript · Python · …"
+Languages:      "JavaScript · TypeScript · Python · …"
 
 ---
 "What is it that separates machines from androids like us?"
@@ -46,7 +46,7 @@ Languages:      "TypeScript · JavaScript · Python · …"
 
 ### ◆ Armament — Languages & tools
 
-![][TypeScript] ![][JavaScript] ![][Python] ![][Node] ![][React] ![][PostgreSQL] ![][Git] ![][Docker] ![][Markdown] ![][Bash] ![][VSCode]
+![][TypeScript] ![][JavaScript] ![][Python] ![][Node] ![][React] ![][Expo] ![][ReactNative] ![][PostgreSQL] ![][Git] ![][Docker] ![][Markdown] ![][Bash] ![][VSCode]
 
 &nbsp;
 
@@ -64,11 +64,11 @@ Languages:      "TypeScript · JavaScript · Python · …"
 
 ### ◆ WIP — Development queue
 
-![][Tailwind] ![][Vercel] ![][MongoDB]
+![][Expo] ![][ReactNative] ![][JavaScript]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=longnhx1&theme=dark)](https://github.com/longnhx1/longnhx1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=spending-tracker&theme=dark)](https://github.com/longnhx1/spending-tracker)
 
-<sub>Nhân bản dòng pin phía trên, đổi <code>repo=</code> để ghim thêm project (mẫu tương tự [debasishray16](https://github.com/debasishray16/debasishray16)).</sub>
+<sub><strong><a href="https://github.com/longnhx1/spending-tracker">spending-tracker</a></strong> — ứng dụng quản lý chi tiêu cá nhân (AI categorization) · React Native + Expo · hiện hỗ trợ Android.</sub>
 
 &nbsp;
 
@@ -76,7 +76,7 @@ Languages:      "TypeScript · JavaScript · Python · …"
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=longnhx1&theme=dark)](https://github.com/longnhx1/longnhx1)
 
-<!-- Thêm pin: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=YOUR_REPO&theme=dark)](https://github.com/longnhx1/YOUR_REPO) -->
+<!-- Thêm repo khác: [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longnhx1&repo=REPO&theme=dark)](https://github.com/longnhx1/REPO) -->
 
 &nbsp;
 
@@ -143,6 +143,9 @@ Languages:      "TypeScript · JavaScript · Python · …"
 [NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [Pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+[Expo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white
+[ReactNative]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
 [Tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
