@@ -95,28 +95,7 @@ Languages:      "JavaScript · TypeScript · Python · …"
 
 &nbsp;
 
-### ◆ Telemetry — Statistics
-
-**Overview**
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=longnhx1&show_icons=true&hide_border=true&theme=radical&title_color=e8e0d5&icon_color=c41e3a" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnhx1&layout=compact&hide_border=true&theme=radical&title_color=e8e0d5" alt="Top languages"/>
-</p>
-
-**Streak**
-
-<img height="180" src="https://streak-stats.demolab.com/?user=longnhx1&theme=dark&hide_border=true&background=0a0a0a&ring=c41e3a&fire=c41e3a&currStreakLabel=e8e0d5&sideLabels=e8e0d5&currStreakNum=e8e0d5&sideNums=e8e0d5&dates=8a8a8a" alt="GitHub streak"/>
-
-**Activity graph**
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=longnhx1&bg_color=0d1117&color=e8e0d5&line=c41e3a&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-**Profile**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longnhx1&theme=github_dark)
-
-**Contribution snake**
+### ◆ Contribution — Snake
 
 <sub>SVG từ branch <code>output</code> — chạy workflow <em>Generate contribution snake</em> nếu chưa thấy ảnh.</sub>
 
