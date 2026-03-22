@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Banner: thay ./assets/banner.png bằng ảnh/GIF của bạn (giữ tên hoặc sửa src). GIF động hoạt động tốt trên GitHub. -->
+<img src="./assets/banner.png" width="800" alt="NieR-inspired profile banner"/>
+
+<br/>
+
 <!-- NieR: Automata–inspired header — edit display name / tagline below -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" role="img" aria-label="Profile header">
   <defs>
